@@ -16,7 +16,6 @@ def Random_String_Generator(length):
 
     print key
     
-    
 length = input("Enter Length: ")
 
 Random_String_Generator(length)
